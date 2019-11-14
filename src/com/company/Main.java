@@ -47,7 +47,7 @@ public class Main {
 
 
             if (input.equals("yes")) {
-                System.out.println( "Do you want to create animal list ?" );
+             //   System.out.println( "Do you want to create animal list ?" );
                 list=true;
 
             }
